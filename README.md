@@ -3,7 +3,7 @@
 > Building real AI-powered systems with Semantic Kernel, Azure OpenAI, and .NET 8.  
 > Goal: Establish credibility as a .NET engineer who ships production AI — not just prompts ChatGPT.
 
-**Started:** May 13, 2026  
+**Started:** May 16, 2026  
 **Target:** 180 days  
 **Background:** Already using Semantic Kernel + Azure OpenAI at work. This journey deepens that and builds toward my long-term goal — AI agent automation for UK/EU accounting and business workflows.
 
